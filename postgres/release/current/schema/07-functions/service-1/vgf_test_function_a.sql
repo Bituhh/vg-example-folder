@@ -11,5 +11,11 @@ BEGIN
     FROM obf_is_user_authorized(i_usr, NULL);
 
     -- Code Here
+
+    test
+    test
+    test
+    test
+    test
 END;
 $body$ LANGUAGE plpgsql;

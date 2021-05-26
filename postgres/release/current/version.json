@@ -3,8 +3,6 @@
         "userToUser": "root",
         "dependencies": [],
         "fileList": [
-            "..//postgres/release/current/schema/07-functions/service-1/vg_test_function-1.sql",
-            "..//postgres/release/current/schema/07-functions/service-1/vg_test_function-2.sql",
             "..//postgres/release/current/schema/07-functions/service-1/vgf_test_function_a.sql"
         ]
     }
