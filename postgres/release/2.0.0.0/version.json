@@ -1,0 +1,9 @@
+[
+    {
+        "userToUser": "root",
+        "dependencies": [],
+        "fileList": [
+            "..//postgres/release/current/schema/07-functions/service-2/vg_test_function-3.sql"
+        ]
+    }
+]
